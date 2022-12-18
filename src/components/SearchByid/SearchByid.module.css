@@ -1,0 +1,56 @@
+.but button{
+    border-radius:7px;
+    /* max-width:200px; */
+    height:40px;
+    background-color:rgb(160, 202, 216);
+    cursor: pointer;
+    padding:10px;
+    margin-bottom:10px;
+    /* bottom: 100px; */
+    position: relative;
+}
+
+
+.i img {
+    width:500px;
+    height:400px;
+    padding:10px;
+    border-radius: 18px;
+}
+
+.i {
+    border-radius:50px;
+    /* display: flex; */
+}
+.cargando{
+    justify-content:center;
+    display: flex;
+    margin: 40px;
+    /* min-width:1200px; */
+}
+.cargando p{
+    /* color: white; */
+    font-size:20px;
+}
+.cc h1{
+    margin-bottom:300px;
+}
+.prop{
+    display: flex;
+    flex-direction: column;
+    padding:50px;
+    justify-content: center;
+    /* margin: 120px; */
+}
+.sub{
+    /* padding:50px; */
+    justify-content:center;
+    display: flex;
+    flex-direction: column;
+    margin:5px;
+}
+.temp{
+    /* padding-right:200px;
+    padding-left:200px;  */
+    width:400px;
+}

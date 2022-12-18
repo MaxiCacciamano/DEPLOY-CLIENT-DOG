@@ -1,0 +1,36 @@
+.contain ul{
+    list-style: none;
+    justify-content:center;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+
+.contain li.active {
+    background-color: wheat;
+    /* color: black;     */
+}
+
+.contain li{
+    margin: 3px;
+    border-radius: 5px 2px;
+    /* border: 1px solid white; */
+    cursor: pointer;
+    padding:5px;
+}
+
+.contain p{
+    border: solid 1px #000;
+    padding:10px;
+    border-radius:3px 8px;
+    margin:auto;
+}
+
+.contain li:hover{
+    background-color: wheat;
+    border-radius:10px;
+}
+
+.contain li:active{
+    background-color: wheat;
+}

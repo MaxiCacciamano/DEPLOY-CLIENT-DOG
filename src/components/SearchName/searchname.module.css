@@ -1,0 +1,28 @@
+.form button{
+    border-radius: 510%;
+    height:30px;
+    width:30px;
+    margin: 10px;
+    padding:5px;
+    border:1px solid #000;
+    position: relative;
+    right: 160px;
+}
+
+.form input{
+    background:transparent;
+    border-radius: 8px;
+    border:1px solid wheat;
+    position: relative;
+    left:60px;
+    padding:10px;
+
+}
+.raza{
+    /* border:1px solid #000; */
+    height:50px;
+    border-radius:10px;
+    /* justify-content:center; */
+    position: relative;
+    right: 20px;
+}
