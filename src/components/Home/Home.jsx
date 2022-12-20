@@ -114,6 +114,11 @@ export const Home = () => {
             />
         </div>
       </section>
+      <footer>
+        {/* <h1> */}
+        Maximiliano Cacciamano 2022
+        {/* </h1> */}
+      </footer>
       </>
   )
 }
