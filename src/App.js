@@ -10,7 +10,8 @@ import {Home} from '../src/components/Home/Home.jsx';
 import {SearchByid} from '../src/components/SearchByid/SearchByid.jsx';
 import {Form} from '../src/components/Form/Form.jsx'
 import axios from 'axios';
-axios.defaults.baseURL = 'https://deploy-api-dogs-production.up.railway.app/';
+// axios.defaults.baseURL = 'https://deploy-api-dogs-production.up.railway.app/';
+axios.defaults.baseURL ='https://api-deogs-2.onrender.com/'
 function App() {
   const dispatch = useDispatch();
 
